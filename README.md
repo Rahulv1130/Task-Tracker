@@ -36,3 +36,7 @@ To run the website, cd in frontend folder and type: :
 ```
 npm run serve
 ```
+![1](https://github.com/user-attachments/assets/bfd41053-abd4-43c0-919d-8700b49a73a3)
+![2](https://github.com/user-attachments/assets/0e46eb71-1ea1-4194-86f3-8f78b791949f)
+![4](https://github.com/user-attachments/assets/10e7439f-c5fd-4bd0-b008-66c7f08c37bc)
+![5](https://github.com/user-attachments/assets/c131a7d1-214b-43fb-8c74-33a64d572d1d)
